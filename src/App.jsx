@@ -260,7 +260,7 @@ const AcerHardwareExplorer = () => {
             <Cpu size={24} />
           </div>
           <div>
-            <h1 className="text-xl font-bold text-white tracking-tight">Acer Hardware Explorer v2.1</h1>
+            <h1 className="text-xl font-bold text-white tracking-tight">Acer Hardware Explorer </h1>
             <p className="text-xs text-slate-400 font-medium">Interactive Learning Environment</p>
           </div>
         </div>
